@@ -1,4 +1,4 @@
-package pointprinter
+package point_printer
 
 import (
 	"fmt"
